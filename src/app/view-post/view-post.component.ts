@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./view-post.component.css']
 })
 export class ViewPostComponent {
-  date:any=[
+  data:any=[
     {
       "userId": 1,
       "id": 1,
